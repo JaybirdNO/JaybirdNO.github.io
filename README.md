@@ -1,3 +1,6 @@
+1. CodeAlong - Museum of Candy (From Udemy course: The Web Developer Bootcamp 2020) (learning HTML / CSS)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JaybirdNO/JaybirdNO.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
