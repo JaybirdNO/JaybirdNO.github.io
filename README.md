@@ -1,11 +1,4 @@
-<h1 style="color: red;">Jaybirds Github page</h1>
-
-
-<p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
-
+<h1>Jaybirds Github page</h1>
 
 Profile
 https://github.com/JaybirdNO
