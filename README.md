@@ -1,5 +1,9 @@
 Jaybirds Github page
 
+Profile
+https://github.com/JaybirdNO
+
+
 Welcome to my GitHub preview page. Feel free to look at my work.
 Below you will find a list and the appropriate links.
 
