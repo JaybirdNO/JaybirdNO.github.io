@@ -1,4 +1,4 @@
-<h1 color="green">Jaybirds Github page</h1>
+<h1 style="color:red;">Jaybirds Github page</h1>
 
 Profile
 https://github.com/JaybirdNO
