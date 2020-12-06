@@ -12,5 +12,5 @@ Below you will find a list and the appropriate links.</h3>
 https://jaybirdno.github.io/Museum%20of%20Candy/
 
 2. Javascript - Guessing Game (From Udemy course: The Web Developer Bootcamp 2020) (learning Javascript)
-https://github.com/JaybirdNO/JaybirdNO.github.io/tree/main/Guessing%20Game
+https://JaybirdNO.github.io/Guessing%20Game
 </h4>
